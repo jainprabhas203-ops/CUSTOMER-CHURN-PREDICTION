@@ -7,4 +7,5 @@ matplotlib
 seaborn
 xgboost
 psutil
+utils
 joblib
