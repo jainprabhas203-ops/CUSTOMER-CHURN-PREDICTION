@@ -10,3 +10,4 @@ psutil
 utils
 joblib
 clean_column_names
+  pip - 25.3
